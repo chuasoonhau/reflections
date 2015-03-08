@@ -9,5 +9,6 @@ It is the intermediary between both. It offers users a chance to look at the fil
 How can you use the staging area to make sure you have one commit per logical change?
 Use git diff and git diff --staged commands to check if the differences between each stage constitutes a logical change or not. 
 
-
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Creating different variations/versions of the same feature and testing all of them.
 
