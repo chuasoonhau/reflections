@@ -15,5 +15,6 @@ Creating different variations/versions of the same feature and testing all of th
 How do the diagrams help you visualize the branch structure?
 Easy visualizations. Make every commits and branches and their relationships visible.
 
- 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The changes in one branch will be incorporated into the another branch (as their respective commits as well).  
 
