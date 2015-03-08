@@ -12,3 +12,8 @@ Use git diff and git diff --staged commands to check if the differences between 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Creating different variations/versions of the same feature and testing all of them.
 
+How do the diagrams help you visualize the branch structure?
+Easy visualizations. Make every commits and branches and their relationships visible.
+
+ 
+
