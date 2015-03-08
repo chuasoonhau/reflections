@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 When a repository is initialized, Git will start to track the status of the folder. This step is required to tell Git that we want to activate version control on the project in the folder.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is the intermediary between both. It offers users a chance to look at the files that are going to be contributed into the repository before actually doing so.
+
+
+
