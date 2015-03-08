@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When a repository is initialized, Git will start to track the status of the folder. This step is required to tell Git that we want to activate version control on the project in the folder.
+
